@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-03-13T21:37:47.652Z,-5.2955,129.6421,181.75,4.3,mb,,121,3.136,0.52,us,us70008gwt,2020-05-30T22:17:23.040Z,"220km SSE of Saparua, Indonesia",earthquake,7.8,2.5,0.107,25,reviewed,us,us
+2020-03-13T18:37:34.426Z,6.7031,125.0848,25.07,4.4,mb,,73,0.611,0.89,us,us70008gwj,2020-05-30T22:17:23.040Z,"12km WSW of Magsaysay, Philippines",earthquake,6.5,5.5,0.092,40,reviewed,us,us
+2020-03-13T12:38:07.356Z,0.6259,126.4311,40.64,4.2,mb,,76,0.946,1.08,us,us70008gw8,2020-05-30T22:17:23.040Z,"105km W of Kota Ternate, Indonesia",earthquake,8.2,8.8,0.14,14,reviewed,us,us
+2020-03-13T10:22:13.145Z,-0.0109,124.2961,97.58,4.7,mb,,45,1.836,0.6,us,us70008gwd,2020-05-30T22:17:23.040Z,"56km SE of Molibagu, Indonesia",earthquake,3.5,9.1,0.133,17,reviewed,us,us
+2020-03-13T09:04:48.222Z,2.9935,126.4086,44.65,4.6,mb,,75,2.405,0.54,us,us70008gw6,2020-05-30T22:17:23.040Z,"218km NE of Bitung, Indonesia",earthquake,7.2,7.5,0.095,33,reviewed,us,us
+2020-03-13T00:09:18.464Z,-6.1817,129.5088,180.61,4.4,mb,,83,2.521,0.85,us,us70008gvy,2020-05-30T22:17:22.040Z,"279km NW of Saumlaki, Indonesia",earthquake,8.1,8.3,0.139,15,reviewed,us,us

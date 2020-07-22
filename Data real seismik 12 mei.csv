@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-05-12T18:23:30.386Z,-6.7882,128.9715,173.47,4.2,mb,,77,2.595,0.86,us,us70009kvj,2020-06-10T17:17:31.040Z,"289km WNW of Saumlaki, Indonesia",earthquake,4.8,12,0.263,5,reviewed,us,us
+2020-05-12T10:06:24.533Z,-7.2105,106.0961,98.35,4.3,mb,,141,1.561,0.73,us,us70009kut,2020-06-22T06:38:14.040Z,"33km SSW of Sindanglaut, Indonesia",earthquake,13,8,0.168,10,reviewed,us,us
+2020-05-12T05:39:59.214Z,-6.817,130.0215,124.69,4.1,mb,,103,1.716,0.68,us,us70009kuj,2020-06-11T12:15:19.040Z,"190km NW of Saumlaki, Indonesia",earthquake,10.2,8.5,0.234,5,reviewed,us,us
+2020-05-12T05:15:29.858Z,-6.736,129.6303,160.4,4.6,mb,,45,2.067,0.79,us,us70009ekf,2020-06-10T15:44:01.731Z,"229km NW of Saumlaki, Indonesia",earthquake,6.6,6.7,0.074,54,reviewed,us,us
+2020-05-12T04:56:14.471Z,-6.3868,128.6598,364.18,4.1,mb,,142,3.061,0.59,us,us70009kui,2020-05-20T02:59:30.040Z,"299km S of Amahusu, Indonesia",earthquake,13.7,10,0.262,4,reviewed,us,us
+2020-05-12T03:34:55.639Z,2.3295,126.8192,35,4.4,mb,,125,1.641,0.8,us,us70009kue,2020-05-20T02:37:40.040Z,"148km WNW of Tobelo, Indonesia",earthquake,9.6,1.9,0.13,17,reviewed,us,us
+2020-05-12T02:16:12.052Z,1.2182,126.906,82.98,4.3,mb,,83,0.639,0.64,us,us70009kud,2020-05-20T02:15:41.040Z,"70km NW of Kota Ternate, Indonesia",earthquake,9.5,7.3,0.096,31,reviewed,us,us
+2020-05-12T00:20:54.051Z,-8.2887,116.1761,10,4.4,mb,,75,2.01,0.98,us,us70009kuf,2020-05-22T04:56:54.040Z,"6km N of Tanahsong Daya, Indonesia",earthquake,3.6,1.9,0.134,16,reviewed,us,us

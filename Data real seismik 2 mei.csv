@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-05-02T20:40:38.193Z,3.4289,95.1346,31.2,4.4,mb,,151,2.542,0.57,us,us70009bs6,2020-07-18T21:57:44.040Z,"135 km SW of Meulaboh, Indonesia",earthquake,7.8,6.2,0.093,33,reviewed,us,us
+2020-05-02T17:09:38.798Z,-7.0955,129.48,135.67,4.2,mb,,65,2.007,0.94,us,us70009brs,2020-07-18T21:57:44.040Z,"Kepulauan Babar, Indonesia",earthquake,7.1,4.8,0.118,22,reviewed,us,us
+2020-05-02T10:50:36.070Z,5.7073,126.3917,100.49,4.2,mb,,113,1.576,0.78,us,us70009brd,2020-07-18T21:57:44.040Z,"76 km SSE of Pondaguitan, Philippines",earthquake,9.4,7.9,0.094,33,reviewed,us,us
