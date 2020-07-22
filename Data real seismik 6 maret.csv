@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-03-06T19:52:59.234Z,-5.2218,102.2091,35,5,mb,,64,1.133,0.87,us,us60008bbr,2020-05-23T22:03:30.040Z,"157km S of Bengkulu, Indonesia",earthquake,6.6,1.9,0.06,94,reviewed,us,us
+2020-03-06T18:28:32.791Z,-8.228,119.7529,181.46,4.4,mb,,58,2.491,0.75,us,us60008b95,2020-05-23T22:03:09.040Z,"32km NNW of Cempa, Indonesia",earthquake,4.6,7.9,0.095,34,reviewed,us,us
+2020-03-06T06:54:14.206Z,-7.4517,127.5867,167.7,4.4,mb,,68,4.001,1.1,us,us60008dt4,2020-05-23T22:03:15.040Z,"253km ENE of Dili, East Timor",earthquake,9.2,9.2,0.131,17,reviewed,us,us
