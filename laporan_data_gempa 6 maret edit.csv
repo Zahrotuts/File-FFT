@@ -1,13 +1,3 @@
-;Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;
-;Sistem Peringatan Dini Tsunami Indonesia (InaTEWS);;;
-;Lintang;:  -14.774882506516272 s/d 9.795677582829743;;
-;Bujur;:  90.24768399447542 s/d 144.01234603841294;;
-;Kedalaman;:  1.00 s/d 1000.00;;
-;Magnitude;:  1.00 s/d 9.50;;
-;Rentang Waktu;:  06-03-2020 s/d 06-03-2020;;
-;;;;
-;;;;
-;;;;
 Tanggal (GMT);;;Kedalaman (km);Magnitudo (SR)
 2020-03-06 23:45:05;;;10;2,49
 2020-03-06 23:32:54;;;100,9;3,42
